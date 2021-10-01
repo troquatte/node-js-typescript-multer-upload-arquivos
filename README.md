@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://vidafullstack.com.br/wp-content/uploads/2019/08/logo-4.png" alt="" width="150">
   <br>
-  <p>Baixe os arquivos e seja feliz estudando Flex-box Css3.</p>
+  <p>Upload de arquivos e imagens utilizando o Multer – express – Node.js e TypeScript</p>
 </h1>
 
 ## :custard: Descrição
