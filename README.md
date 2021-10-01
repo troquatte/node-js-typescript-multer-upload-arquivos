@@ -7,7 +7,7 @@
 ## :custard: Descrição
 
 <p>Aulas Desenvolvida - <a href="https://vidafullstack.com.br/javascript/upload-de-arquivos-node-js-multer/">
-Upload de arquivos e imagens utilizando o Multer – express – Node.js e TypeScript</a></p>
+Upload de arquivos e imagens utilizando o Multer – Express – Node.js e TypeScript</a></p>
 
 ---
 
